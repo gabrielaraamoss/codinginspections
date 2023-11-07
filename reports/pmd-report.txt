@@ -1,0 +1,1 @@
+src/main/java/codinginspection/DiningExperienceManager.java:58:	NPathComplexity:	NPathComplexity: The method 'main(String[])' has an NPath complexity of 1135, current threshold is 200
